@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Apps</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_username_hint">Username</string>
+    <string name="login_password_hint">Password</string>
+    <string name="CreateAccount">New user? Register Now</string>
+    <string name="Welcome">Welcome %s</string>
+
+
+</resources>
